@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Nathan Pham.
-🥳 Just released a new virus simulation app called [Intere](https://play.google.com/store/apps/details?id=io.ionic.intere)!
+🥳 Just released a new virus simulation app called [Intere](https://play.google.com/store/apps/details?id=io.ionic.intere)!  
 📙 Currently reading "Anthem"
 
 ## Personal Website
