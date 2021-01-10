@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Just released a new virus simulation app called [Intere](https://play.google.com/store/apps/details?id=io.ionic.intere)!  
-📙 Currently reading "Anthem"  
+🥳 Created a CLI called [uti-app](https://www.npmjs.com/package/uti-app) to manage all of my project templates
+📙 Currently reading "Catcher in the Rye"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
 ## Social Media
