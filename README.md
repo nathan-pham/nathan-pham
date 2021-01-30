@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Created a CLI called [uti-app](https://www.npmjs.com/package/uti-app) to manage all of my project templates  
+🥳 Created a [proxy](https://github.com/nathan-pham/ultimate-proxy) to unblock content at school
 📙 Currently reading "Catcher in the Rye"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
