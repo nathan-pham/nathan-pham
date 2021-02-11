@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Created a [proxy](https://github.com/nathan-pham/ultimate-proxy) to unblock content at school  
+🥳 Learning python
 📙 Currently reading "Catcher in the Rye"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
