@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Learning python
+🥳 Learning python  
 📙 Currently reading "Catcher in the Rye"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
