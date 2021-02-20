@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Learning python  
-📙 Currently reading "Catcher in the Rye"  
+🥳 [experiments](https://experiments.nathanpham.me) is now live!    
+📙 Currently reading Modern Perl  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
 ## Social Media
