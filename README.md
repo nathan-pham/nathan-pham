@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 [experiments](https://experiments.nathanpham.me) is now live!    
+🥳 [experiments](https://experiments.nathanpham.me) are now live!    
 📙 Currently reading Modern Perl  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
