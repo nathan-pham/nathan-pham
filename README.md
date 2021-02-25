@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
 🥳 [experiments](https://experiments.nathanpham.me) are now live!    
-📙 Currently reading Modern Perl  
+📙 Checking out the Libby app on my iPad    
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
 
 ## Social Media
