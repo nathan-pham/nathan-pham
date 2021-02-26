@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Nathan Pham.
 🥳 [experiments](https://experiments.nathanpham.me) are now live!    
 📙 Checking out the Libby app on my iPad    
-📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com)
+📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
 ## Social Media
 Twitter: @phamn23  
