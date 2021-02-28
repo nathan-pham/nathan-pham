@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
 🥳 Learning processing      
-📙 Checking out the Libby app on my iPad    
+📙 Reading nothing (like actually nothing)  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
 ## Social Media
