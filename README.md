@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Learning processing      
+🥳 Remaking repl talk client  
 📙 Reading nothing (like actually nothing)  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
