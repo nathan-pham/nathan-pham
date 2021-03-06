@@ -4,7 +4,7 @@
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
 ## Social Media
-Twitter: @phamn23    
+Twitter: [@phamn23](https://twitter.com/phamn23)    
 Discord: Nathaniel#6988  
 
 ## Personal Website
