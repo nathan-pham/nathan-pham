@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
 🥳 Remaking repl talk client  
-📙 Reading nothing (like actually nothing)  
+📙 Reading "On the Writing Well"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
 ## Social Media
