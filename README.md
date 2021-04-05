@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Remaking repl talk client  
+🥳 Just learned Redux!  
 📙 Reading "On the Writing Well"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
