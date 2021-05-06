@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Just learned Redux!  
+🥳 Made some smart rockets in processing  
 📙 Reading "On the Writing Well"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
