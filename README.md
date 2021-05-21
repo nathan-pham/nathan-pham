@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Made some smart rockets in processing  
+🥳 Working on a multiplayer game of snake  
 📙 Reading "On the Writing Well"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
