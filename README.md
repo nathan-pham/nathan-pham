@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Working on a multiplayer game of snake  
+🥳 Evolve the Mona Lisa!  
 📙 Reading "On the Writing Well"  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
