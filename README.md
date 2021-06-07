@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
 🥳 Evolve the Mona Lisa!  
-📙 Reading "On the Writing Well"  
+📙 Studying chemistry  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
 ## Social Media
