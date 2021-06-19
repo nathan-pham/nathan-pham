@@ -5,7 +5,7 @@
 
 ## Social Media
 Twitter: [@phamn23](https://twitter.com/phamn23)    
-Discord: Nathaniel#6988  
+Discord: Nathaniel#6988 (I'm more active here)
 
 ## Personal Website
 Interested in working on something together? Check out [nathanpham.me](https://nathanpham.me)
