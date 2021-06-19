@@ -20,7 +20,7 @@ Check out the list below of potential projects you may be interested in helping 
 (🥺) help me plz  
 (🔨) some progress made  
 (❤️) thank you for helping!  
-(❓) not sure where this came from  
+(😐) not sure what this is even though I made it
 
 ### Projects
 - [game-engine](https://github.com/nathan-pham/game-engine) (🔨)
@@ -35,4 +35,4 @@ Check out the list below of potential projects you may be interested in helping 
 - [state-box](https://github.com/nathan-pham/state-box) (🚀)
 - [micro-sql](https://github.com/nathan-pham/micro-sql) (🔨)
 - [web-console](https://github.com/nathan-pham/web-console) (🔨)
-- [terminal](https://github.com/nathan-pham/terminal) (❓)
+- [terminal](https://github.com/nathan-pham/terminal) (😐)
