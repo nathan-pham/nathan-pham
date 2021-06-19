@@ -16,11 +16,11 @@ Interested in working on something together? Check out [nathanpham.me](https://n
 Check out the list below of potential projects you may be interested in helping out with! The projects are not ordered according to priority; pick anything you want.  
 
 ### Key
-(🚀) new idea  
-(🥺) help me plz  
-(🔨) some progress made  
-(❤️) thank you for helping!  
-(😐) not sure what this is even though I made it
+🚀 new idea  
+🥺 help me plz  
+🔨 some progress made  
+❤️ thank you for helping!  
+😐 not sure what this is even though I made it
 
 ### Projects
 - [game-engine](https://github.com/nathan-pham/game-engine) (🔨)
