@@ -18,8 +18,8 @@ Check out the list below of potential projects you may be interested in helping 
 ### Key
 🚀 new idea  
 🥺 help me plz  
+❤️ we completed it!  
 🔨 some progress made  
-❤️ thank you for helping!  
 😐 not sure what this is even though I made it
 
 ### Projects
