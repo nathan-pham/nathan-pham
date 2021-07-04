@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Evolve the Mona Lisa!  
+🥳 Implemented logic gates & microSQL!  
 📙 Studying chemistry  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
