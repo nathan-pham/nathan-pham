@@ -33,7 +33,7 @@ Check out the list below of potential projects you may be interested in helping 
 - (🔨) [learn-java](https://github.com/nathan-pham/learn-java) 
 - (🔨) [game-engine](https://github.com/nathan-pham/game-engine)
 - (🔨) [can-gine](https://github.com/nathan-pham/can-gine) 
-- (🔨) [micro-sql](https://github.com/nathan-pham/micro-sql) 
+- (❤️) [micro-sql](https://github.com/nathan-pham/micro-sql) 
 - (❤️) [web-console](https://github.com/nathan-pham/web-console) 
 - (🔨) [biologist-python](https://github.com/nathan-pham/biologist-python)
 - (😐) [terminal](https://github.com/nathan-pham/terminal) 
