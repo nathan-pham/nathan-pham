@@ -36,4 +36,5 @@ Check out the list below of potential projects you may be interested in helping 
 - (❤️) [micro-sql](https://github.com/nathan-pham/micro-sql) 
 - (❤️) [web-console](https://github.com/nathan-pham/web-console) 
 - (🔨) [biologist-python](https://github.com/nathan-pham/biologist-python)
+- (🔨) [programming-ml](https://github.com/nathan-pham/programming-ml)
 - (😐) [terminal](https://github.com/nathan-pham/terminal) 
