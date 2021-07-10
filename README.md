@@ -1,5 +1,6 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Learning some more algorithm techniques  
+![nathan pham banner](https://project-banner.phamn23.repl.co/?title=Nathan%20%20Pham&description=I%27m%20kinda%20cool&stack=html,css,react,node,python,database,figma,dev-to)
+🥳 Created a project banner generator!  
 📙 Studying chemistry  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
