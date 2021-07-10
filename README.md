@@ -12,6 +12,15 @@ Interested in working on something together? Check out [nathanpham.me](https://n
 
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathan-pham&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skill Priority List
+1. Three.js
+2. Immersive web design
+3. Machine learning & simulations
+4. Game development
+5. Bioinformatics & basic data science
+6. White hat hacking
+7. GraphQL & Redux
+
 ## Looking for Contributions
 Check out the list below of potential projects you may be interested in helping out with! The projects are not ordered according to priority; pick anything you want.  
 
