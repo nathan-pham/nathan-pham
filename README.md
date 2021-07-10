@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Nathan Pham.
-🥳 Implemented logic gates & microSQL!  
+🥳 Learning some more algorithm techniques  
 📙 Studying chemistry  
 📫 [nathanpham.me@gmail.com](mailto:nathanpham.me@gmail.com) 
 
